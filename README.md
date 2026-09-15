@@ -74,3 +74,22 @@ analisis-sentimiento-petroleo/
 ├── analisis_sentimiento.R
 ├── .gitignore
 └── figures/
+## Resultados
+
+Los modelos fueron evaluados para distintos horizontes temporales mediante R², RMSE, MAE y correlación entre los valores observados y predichos.
+
+### Predicción a 1 día
+
+![Predicción Brent a 1 día](figures/figura%201.jpg)
+
+### Predicción a 3 días
+
+![Predicción Brent a 3 días](figures/figura%202.jpg)
+
+### Predicción a 5 días
+
+![Predicción Brent a 5 días](figures/figura%203.jpg)
+
+### Predicción a 7 días
+
+![Predicción Brent a 7 días](figures/figura%204.jpg)
