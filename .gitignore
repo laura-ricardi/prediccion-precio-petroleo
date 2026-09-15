@@ -1,0 +1,22 @@
+# API keys and environment files
+.env
+.Renviron
+*.Renviron
+
+# R session and temporary files
+.Rhistory
+.RData
+.Ruserdata
+
+# Local data files
+data/raw/
+data/*.csv
+
+# Generated outputs
+figures/*.png
+figures/*.jpg
+figures/*.jpeg
+
+# RStudio project files
+.Rproj.user/
+*.Rproj
