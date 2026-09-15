@@ -74,6 +74,7 @@ analisis-sentimiento-petroleo/
 ├── analisis_sentimiento.R
 ├── .gitignore
 └── figures/
+
 ## Resultados
 
 Los modelos fueron evaluados para distintos horizontes temporales mediante R², RMSE, MAE y correlación entre los valores observados y predichos.
