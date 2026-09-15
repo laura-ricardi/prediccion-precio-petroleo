@@ -82,16 +82,16 @@ Los modelos fueron evaluados para distintos horizontes temporales mediante R², 
 
 ### Predicción a 1 día
 
-![Predicción Brent a 1 día](figures/figura%201.jpg)
+![Predicción Brent a 1 día](figures/figura 1.jpg)
 
 ### Predicción a 3 días
 
-![Predicción Brent a 3 días](figures/figura%202.jpg)
+![Predicción Brent a 3 días](figures/figura 2.jpg)
 
 ### Predicción a 5 días
 
-![Predicción Brent a 5 días](figures/figura%203.jpg)
+![Predicción Brent a 5 días](figures/figura 3.jpg)
 
 ### Predicción a 7 días
 
-![Predicción Brent a 7 días](figures/figura%204.jpg)
+![Predicción Brent a 7 días](figures/figura 4.jpg)
